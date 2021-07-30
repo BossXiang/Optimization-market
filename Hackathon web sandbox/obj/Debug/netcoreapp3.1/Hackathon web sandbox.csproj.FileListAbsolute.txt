@@ -1,0 +1,5 @@
+D:\University\Hackathon\Hackathon web sandbox\Hackathon web sandbox\obj\Debug\netcoreapp3.1\Hackathon web sandbox.csprojAssemblyReference.cache
+D:\University\Hackathon\Hackathon web sandbox\Hackathon web sandbox\obj\Debug\netcoreapp3.1\Hackathon web sandbox.csproj.CoreCompileInputs.cache
+D:\University\Hackathon\Hackathon web sandbox\Hackathon web sandbox\obj\Debug\netcoreapp3.1\Hackathon web sandbox.MvcApplicationPartsAssemblyInfo.cache
+D:\University\Hackathon\Hackathon web sandbox\Hackathon web sandbox\obj\Debug\netcoreapp3.1\Hackathon web sandbox.AssemblyInfoInputs.cache
+D:\University\Hackathon\Hackathon web sandbox\Hackathon web sandbox\obj\Debug\netcoreapp3.1\Hackathon web sandbox.AssemblyInfo.cs
